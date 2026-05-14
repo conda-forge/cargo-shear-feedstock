@@ -5,7 +5,7 @@
 
 [workspace]
 name = "cargo-shear-feedstock"
-version = "3.56.3"  # conda-smithy version used to generate this file
+version = "3.61.2"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/cargo-shear-feedstock"
 authors = ["@conda-forge/cargo-shear"]
 channels = ["conda-forge"]
