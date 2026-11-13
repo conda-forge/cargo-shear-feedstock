@@ -1,6 +1,6 @@
 context:
   name: cargo-shear
-  version: "1.13.4"
+  version: "1.14.1"
 
 package:
   name: ${{ name|lower }}
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://github.com/Boshen/${{ name }}/archive/refs/tags/v${{ version }}.tar.gz
-  sha256: 93016cfddda03e3862f2d25c63f7c18a100edbbda4df0f4bca1584a6b5a01394
+  sha256: 8cedddd7f8ebfea46fa7369a89f6be2905c4bbb9c9430a1057df9d048e9548be
 
 build:
   number: 0
